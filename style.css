@@ -1,0 +1,184 @@
+.dice {  
+    
+    
+    background-color: tomato;  
+    width: 120px;  
+    height: 120px;  
+    border-radius: 10%;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+    
+    
+}
+
+.pos{
+    position: absolute;
+   margin-left: 615px;
+   margin-top: 150px;
+
+}
+
+.dot {
+    
+    display:inline;
+       width: 24px;
+       height: 24px;
+       border-radius: 50%;
+       background-color:white;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 25px;
+    padding: 25px;
+    
+  }
+
+  .ff{
+  div:nth-child(5) {
+    display:block;
+       width: 24px;
+       height: 24px;
+       border-radius: 50%;
+       background-color:white;
+    
+  } 
+}
+
+.sf{
+    div:nth-child(1) {
+      display:block;
+         width: 24px;
+         height: 24px;
+         border-radius: 50%;
+         background-color:white;
+      
+    } 
+
+    div:nth-child(9) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+  }
+  
+  .tf{
+    div:nth-child(1) {
+      display:block;
+         width: 24px;
+         height: 24px;
+         border-radius: 50%;
+         background-color:white;
+      
+    } 
+
+    div:nth-child(5) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+
+      div:nth-child(9) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+
+  }
+
+  .fourf{
+    div:nth-child(1) {
+      display:block;
+         width: 24px;
+         height: 24px;
+         border-radius: 50%;
+         background-color:white;
+      
+    } 
+
+    div:nth-child(3) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+    
+      div:nth-child(7) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+  
+      div:nth-child(9) {
+          display:block;
+             width: 24px;
+             height: 24px;
+             border-radius: 50%;
+             background-color:white;
+          
+        }   
+  }
+
+  .fivef{
+    div:nth-child(3) {
+      display:block;
+         width: 24px;
+         height: 24px;
+         border-radius: 50%;
+         background-color:white;
+      
+    } 
+
+    div:nth-child(7) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+
+    
+  }
+
+
+  .sixf{
+    div:nth-child(4) {
+      display:block;
+         width: 24px;
+         height: 24px;
+         border-radius: 50%;
+         background-color:white;
+      
+    } 
+
+    div:nth-child(6) {
+        display:block;
+           width: 24px;
+           height: 24px;
+           border-radius: 50%;
+           background-color:white;
+        
+      } 
+  }
+
+
+  
+
